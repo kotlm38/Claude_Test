@@ -39,7 +39,7 @@
 ## 예시
 
 ```
-Feat(auth): Add login with Google OAuth
+[Feat(auth)] : Add login with Google OAuth
 
 사용자가 Google 계정으로 로그인할 수 있도록 OAuth 2.0 연동 추가.
 
@@ -47,9 +47,9 @@ Closes #42
 ```
 
 ```
-Fix(api): Handle null response from user endpoint
+[Fix(api)] : Handle null response from user endpoint
 ```
 
 ```
-Docs: Update COMMIT_CONVENTION.md with examples
+[Docs] : Update COMMIT_CONVENTION.md with examples
 ```
